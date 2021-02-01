@@ -97,7 +97,7 @@ GEM
       mini_portile2 (~> 2.1.0)
     pg (0.20.0)
     puma (3.8.2)
-    rack (2.0.1)
+    rack (2.2.3)
     rack-attack (5.0.1)
       rack
     rack-attack-rate-limit (1.1.0)
